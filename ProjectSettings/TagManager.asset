@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Column
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SortingLayer_1
+    uniqueID: 25267527
+    locked: 0
+  - name: SortingLayer_2
+    uniqueID: 515727355
+    locked: 0
+  - name: SortingLayer_3
+    uniqueID: 143763963
+    locked: 0
+  - name: Canvas
+    uniqueID: 1839434233
+    locked: 0

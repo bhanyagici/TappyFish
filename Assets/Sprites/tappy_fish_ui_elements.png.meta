@@ -1,0 +1,3396 @@
+fileFormatVersion: 2
+guid: ad1c750033ca78a4bad52516771e2d14
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_0
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1762
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a994fe3d44fc84680a3ae3080f7315
+      internalID: -1753918807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_1
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1715
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d45368c4d4f614bb14caaecfae3e04
+      internalID: -1807200490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_2
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1749
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772576c04229eee4597a30f105aa35d9
+      internalID: -701489362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_3
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1749
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa9de8b541f42f49bd89a60885f38b1
+      internalID: 1086019100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1502
+        width: 1061
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025bc3c77b32aac4f9abb93069bbb1d5
+      internalID: 837822770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_5
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1743
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8845fc9ed96cf384590125b4d5e53721
+      internalID: -1799066423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_1
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1469
+        width: 313
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81311ef95d8cb6418990ae90651f46c
+      internalID: -713702054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_7
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1743
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1111f2512c2224bbf5795fef43ad9e
+      internalID: -225106851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 509
+        width: 703
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3702e2ccc71b03043bb6386ccaeb5faf
+      internalID: -1740219456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_9
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1715
+        width: 610
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a1be8e013a1a847b17ab0930c25b85
+      internalID: 672199632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_10
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1715
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4897ed0291cdfde44bc5f266534d63da
+      internalID: 1884465516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989552e42472014ebab4a88b7491984
+      internalID: 1138206796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_12
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1693
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcf96116d2fa9d489ac81d5e0beb39e
+      internalID: 933111518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_13
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1660
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a4ea22af705ab41ae4814750e92069
+      internalID: -2086850932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_14
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1646
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7418296a2958e4ba7a6d48329e65ea
+      internalID: 67553161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_15
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1591
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44814cdc88c991b498a602c09a6c5ae0
+      internalID: 1599085224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_16
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1632
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed97ded83e74cb54f8aa36ed1a00b280
+      internalID: -6403785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_17
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1598
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe8df0d7aade142ac014c09b3a2f31
+      internalID: 707125933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_18
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1564
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb48e20537a3d6439a6f0e50c818af8
+      internalID: 1319284240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_19
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1542
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe612ee7f22510c4a84b96d3915e6c6b
+      internalID: -310565241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_20
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1536
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2120c59e20b4b0d43a851ba752d1a64e
+      internalID: -1919505462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_21
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1511
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a92e74cd5a92542b3544c19a05c47d
+      internalID: -1972161224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_22
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1495
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f12fcf6ea28a41bfbd94ea1062e94
+      internalID: 1554950321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_24
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1405
+        width: 194
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e358bafe95d47a74f930f3ae9b6b2ff1
+      internalID: -1626294075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_25
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1484
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57067aca561455b4398841e33f5a9731
+      internalID: -869892904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_26
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1480
+        width: 79
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedcf8b5e5c3f1e47a607469ffc43300
+      internalID: -488032915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_27
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1488
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ec9f12b13330d41a77ca03e50ef70d
+      internalID: -1041990460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_28
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1488
+        width: 42
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850523b40ab7d54bba383f65740abce
+      internalID: 900365265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_29
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1411
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be94eaf1d82ff27449c5c21f04c984f7
+      internalID: -1299760554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_30
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1467
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d307042d8959409a84591cf205d5e
+      internalID: 1153079204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_31
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1467
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2d1c2c34284eb4dbde7ab0285b7578
+      internalID: -2016180092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BronzeMedal
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1233
+        width: 231
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b4beabf882fa14790f22eb3efbbc97
+      internalID: 1696709800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldMedal
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1233
+        width: 246
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5500ac722018fc74994416e8e5bd435e
+      internalID: 178435464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_34
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1460
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743661d059f300444a51d5c5956541a0
+      internalID: -1633835213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_35
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1405
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605195ce5cc21a14eb61ce30448c9649
+      internalID: -1323156807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_36
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1460
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f5b818b741536409ab361b784654cf
+      internalID: 722954210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_38
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1405
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c10cf74ab6e1ef449ae2844cb93705f
+      internalID: -1351393233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_39
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1398
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10367fad9312da24bb680b83820240db
+      internalID: -220153669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_2
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1181
+        width: 314
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8b3c677ecc7804fba051e88833d062
+      internalID: 1239648148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_41
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1384
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea9c7dcd6dcb8440963b03fffc0414d
+      internalID: -94177245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_42
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1391
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee387f79ff3f04abc6eab5d251d796
+      internalID: -1252319656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_43
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1391
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a0f11f4bff8fa49aaf4367acb0d2f0
+      internalID: -1191901452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_45
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1303
+        width: 10
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082dc58348011dc42b3536efa539bb27
+      internalID: -1882582124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_46
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1316
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd7105cc13bc6e4b8393fa39e16caa6
+      internalID: -1585233964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_47
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1295
+        width: 14
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc16b6d308f28c4d8275b57adddd475
+      internalID: 458072815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_48
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1371
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f63e2b65e56514bb8cbe4e85d59b83
+      internalID: -1182041467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_53
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1321
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82aa72b8e144445bbb820994b2d106
+      internalID: -1913748352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_58
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1302
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63afea2774d8c774cab8ac1a58ec07e2
+      internalID: 1135939568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_60
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1287
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f1c367a5564e14d936ba73d1ab2a87
+      internalID: -495350399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_61
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1281
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c582fb2cf8fc4942a95f6a477834bbc
+      internalID: -181027918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_62
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1288
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5ca52577364ff4998807cb9ca08863
+      internalID: 1527536961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_63
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1218
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a321e3b63b701fa4d8b09a932b9a283e
+      internalID: -18992142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_64
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1218
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f93c2426a8b24140be04fbef4060772
+      internalID: -700457648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_65
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12edf25549e6c4f48a297db5136f3548
+      internalID: 838230104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_68
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1204
+        width: 160
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69bfecc2ee0db478ff3d9993bd7894
+      internalID: -2028091968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_69
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1215
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf90aaa91fd811245ba8e4593b82f240
+      internalID: 882084495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_72
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748458cc916200499253346123ef264
+      internalID: -1985873266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_73
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1202
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9629b0a5b7e19b4d8afde76d6e85ee0
+      internalID: -1930069392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_75
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1164
+        width: 76
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593d810c821878640a728a32880b9752
+      internalID: 26950921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_77
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1157
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c86a9910be5b94f9e1f0259527e54b
+      internalID: -1979743381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_78
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1157
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab1003b4ee29f648becf396ce115fa7
+      internalID: 1988602782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_79
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1104
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076816fa21c1c6149ad3a66d0dc4663b
+      internalID: 94715431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_3
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 921
+        width: 315
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8332f1e1389d69a48981ddebbc7afb71
+      internalID: 70791568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_81
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1153
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8394539d7dc6040b1770b03c3124de
+      internalID: 1224826145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_82
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1149
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6582e80136144c345a39c225bb350c0f
+      internalID: -872439369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_83
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1123
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e299fcff3b2bc6409e75153fb5ae34b
+      internalID: 490501772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverMedal
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 913
+        width: 230
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1eb40bed9d8b640b9dcb42c035dacc
+      internalID: -1350568800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_86
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b91045954ce3468211dcb72cf698a
+      internalID: 18343732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_87
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1123
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360fb61ce1438c54bb9df4d92cd61948
+      internalID: 1452437796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalMedal
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 915
+        width: 230
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d6f3caea3c7844d85047f5560a61b0
+      internalID: 1103469149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_93
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1109
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60b1bce88029744ba1bc44621bf033
+      internalID: -1769726304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_94
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1074
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc700cf61d0a6340b11cc28bd59f4b2
+      internalID: -1320685364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_95
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1095
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16a0684bf3ac234e97d69cd01b9cd00
+      internalID: 1869262347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_97
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1081
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b7a18b5ab04e7439a12da19add48ff
+      internalID: -392630816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_101
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1074
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46373ea81a4e2e34d8c99187e805e793
+      internalID: 1364766594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_103
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1061
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f9cb4eb1e213941afdc1f395877054
+      internalID: -1813596028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_109
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1068
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1641ad1669efe479d89417a5914e38
+      internalID: -238514827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_112
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1054
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1756f09cec33ab34284b7a02c2d9444e
+      internalID: 524767229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_113
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 978
+        width: 14
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa5ea96dcfd94e40be34bb8d720394d
+      internalID: 1009465151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_115
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1026
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9857a209799654292d9bd157d4585d
+      internalID: 1781782277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_119
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 999
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6be4558eb7854aa76f65542641907
+      internalID: -602911266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapBox
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 865
+        width: 638
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092d71c98fe72947bcab57ddd3107ce
+      internalID: -988817950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_124
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 971
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61038a9ec0d8ee74a90f5e92a250f81e
+      internalID: 1918039706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_125
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 978
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7288c709175a6c74795d61beb603a800
+      internalID: 48031226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_126
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 964
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e908671166d65e47b86b80dce418bf3
+      internalID: -1590972508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_127
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 951
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da25585e7f2ce22469526366d890eef8
+      internalID: 1375315197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_128
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 887
+        width: 139
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6420be5a8706841a3b81a786388bbf
+      internalID: -1215398839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_129
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 895
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dd0ee99c2790044bf9b7750b8e3d25
+      internalID: -266102089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_130
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 894
+        width: 20
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177a78a539c7064e84b29512a67f7e6
+      internalID: 139102212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_132
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 889
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de802c6686d693428845a7248fb466f
+      internalID: -1907272387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_133
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 934
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb2a091ac31494a9ef9446ca290dd4
+      internalID: -1636655466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_134
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 936
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc5cf2d1999f6468772595477b907b
+      internalID: -864553677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_136
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 887
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb94fa2ff99b7944bf47afecb6e97cd
+      internalID: 336817649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_137
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 889
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bc34d7fd6d26544a89640bf0530a01
+      internalID: 2080082305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_139
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 883
+        width: 99
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eef1a6c44c3dc4ebf0525d02babbd5
+      internalID: -31013125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_140
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 885
+        width: 62
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cd194d77fdaa1438e217325bc2a948
+      internalID: 1820829791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_141
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 885
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431d47ac95aad4348ad345253f386e4c
+      internalID: 112228430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_143
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 827
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2dcc033d1bffd498056882c33316bc
+      internalID: -14884022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_144
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 861
+        width: 151
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2a1058c16a1c469e9eb45e757e5ad
+      internalID: -36450462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreBoard
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 470
+        width: 734
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86089b43418dfed43a597cc14d2efa4c
+      internalID: -239147113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Restart
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 736
+        width: 189
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de1861a1c1f1794880361b8a81ead0b
+      internalID: 2011935189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_147
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 827
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dab47fa3d87ae4690ae0629b3739d5
+      internalID: 793703694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_148
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 751
+        width: 4
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa4c786029dfcf48950124d63224f8b
+      internalID: -1244785974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_149
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 751
+        width: 6
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ded5453d73324cb10eab9aa5d9aec
+      internalID: 1818524942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_150
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 709
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2abc3ca5037cd4ea5c2346805b5c7a
+      internalID: -1217777889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_151
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 705
+        width: 151
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29219bd3945ac9c46a0a5272cc48cb7b
+      internalID: -70054111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_152
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 668
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91de76cdc469854d8d3a8f40f663a56
+      internalID: 1424035531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 581
+        width: 195
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12838330b38d214faad62a9e476840e
+      internalID: 1410422633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_154
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 503
+        width: 49
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3a54f107c031b40a0a55667a7893bc
+      internalID: 102120457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_155
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 489
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43981fd665d46cd47b1c5c83034cf095
+      internalID: 170347113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_156
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 503
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c1cf5bd0047364388edb78d654be9b
+      internalID: 2095526978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_157
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 503
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51183d2bc1c8dc4bbb064b6b0d588da
+      internalID: -1857293471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_158
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 496
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a222fa7063809cc4dbf6ffd1900c9700
+      internalID: -1740463124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_159
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 503
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c365d8ac3ee13045a5a95006a7d53e7
+      internalID: -1478174666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_160
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 468
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b048c2e93b580429fdaa5b1c19a4c2
+      internalID: -801543103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_161
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 489
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c16a11d12c94e4d9fe911aecb8579d
+      internalID: 2136101690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_162
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 489
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61adfa19de020cb4a94ad4b60bcf802c
+      internalID: 1014207449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_163
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 496
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ce5be1fc4aa24eb7caecc9b34e370
+      internalID: 2012624946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_164
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 489
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e5a30f7f6ac4f4789cc03a6cd01e29
+      internalID: 846392048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_165
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 346
+        width: 336
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb80b892fe5ffd469f63d7a482c71da
+      internalID: -102592206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_166
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 482
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9116a24afaea0b543bc70d8ccda7718c
+      internalID: -1610191935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_167
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 482
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351bb3eee5c8fca459aaa880fc775b9f
+      internalID: 2037035535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_168
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 482
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16de5ae800cc51743b21bb892d529d05
+      internalID: -878620768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_169
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 482
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431dc7e4ca12efa4cac6ea8803fefddb
+      internalID: -1586426684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_170
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 482
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b21ec92d3f5db4da3bf4ca5a1b5a23
+      internalID: 2078873888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_171
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 482
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de13b36f79b89441a676d2ccf49697e
+      internalID: 543664974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_172
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656f89f04a726b48a3d8c9c54e5d808
+      internalID: -1888820817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 90
+        width: 1033
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 1, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b54c7338688d4148b4b3e770a282e92
+      internalID: 1248026760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_174
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 336
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00c632a2f7360459a9aafc5970c5a7
+      internalID: 200275301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_175
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 362
+        width: 207
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e99aaf697359db418186093bfd013db
+      internalID: -1345643042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_176
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 386
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1e22ebfceb974c8cc60da9009c104
+      internalID: 530576851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_177
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 337
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686578ca6b17dc46ada7f7bed1e5bc8
+      internalID: 1262453682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_178
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 337
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df7b50b2ec1ce248958d2823b39d858
+      internalID: 87733581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_179
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcb1aff4d0485441bb2a85dbb48c453
+      internalID: -415342844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_180
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 337
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aa449a54a9454409bcfe1aaaf35303
+      internalID: 1311764333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_181
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 337
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574b56e7fa28db4a9edb7948185e4c5
+      internalID: 1619518318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_182
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 337
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9d2efc455de5c4abf81e2be4191741
+      internalID: -1677483889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_183
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 337
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da99597a9d821f4ba96afbbbd7ae553
+      internalID: 343680161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_184
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56039e6f636662b4c9afee6b6c1f0652
+      internalID: -1007376371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_185
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 336
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc6b60ca2a5c045bfd35f99d62e090
+      internalID: 1716182207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_186
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 331
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53ac297c62be145a111fd5f359579c
+      internalID: -190378513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_187
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 331
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdfc51eed3fdcd4297e9f73decb92b9
+      internalID: 1174341351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy_fish_ui_elements_188
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 332
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9f050b02a1ef5408b16bffa8f2fb79
+      internalID: -420044092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetReady
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 214
+        width: 488
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 37, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d9e0b4e9005140b61177b154f4993
+      internalID: 1990540352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 69
+        width: 497
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4302996d3c3e0254ca957105ce91d7e6
+      internalID: 2064957255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tappy_fish_ui_elements_90: -1032142914
+      tappy_fish_ui_elements_87: 1452437796
+      tappy_fish_ui_elements_188: -420044092
+      tappy_fish_ui_elements_2: -701489362
+      tappy_fish_ui_elements_168: -878620768
+      tappy_fish_ui_elements_185: 1716182207
+      tappy_fish_ui_elements_29: -1299760554
+      tappy_fish_ui_elements_159: -1478174666
+      tappy_fish_ui_elements_175: -1345643042
+      tappy_fish_ui_elements_37: 1728519475
+      tappy_fish_ui_elements_52: -329675546
+      tappy_fish_ui_elements_14: 67553161
+      tappy_fish_ui_elements_43: -1191901452
+      tappy_fish_ui_elements_178: 87733581
+      tappy_fish_ui_elements_93: -1769726304
+      tappy_fish_ui_elements_39: -220153669
+      tappy_fish_ui_elements_58: 1135939568
+      tappy_fish_ui_elements_18: 1319284240
+      tappy_fish_ui_elements_95: 1869262347
+      tappy_fish_ui_elements_119: -602911266
+      tappy_fish_ui_elements_98: -336689155
+      tappy_fish_ui_elements_170: 2078873888
+      tappy_fish_ui_elements_103: -1813596028
+      tappy_fish_ui_elements_75: 26950921
+      tappy_fish_ui_elements_54: -1378148196
+      tappy_fish_ui_elements_30: 1153079204
+      tappy_fish_ui_elements_66: 459938589
+      tappy_fish_ui_elements_83: 490501772
+      tappy_fish_ui_elements_160: -801543103
+      tappy_fish_ui_elements_154: 102120457
+      tappy_fish_ui_elements_157: -1857293471
+      tappy_fish_ui_elements_182: -1677483889
+      tappy_fish_ui_elements_46: -1585233964
+      tappy_fish_ui_elements_169: -1586426684
+      tappy_fish_ui_elements_121: -115228739
+      tappy_fish_ui_elements_41: -94177245
+      tappy_fish_ui_elements_186: -190378513
+      BackGround: -1740219456
+      tappy_fish_ui_elements_22: 1554950321
+      tappy_fish_ui_elements_31: -2016180092
+      Fish_3: 70791568
+      tappy_fish_ui_elements_73: -1930069392
+      tappy_fish_ui_elements_171: 543664974
+      tappy_fish_ui_elements_144: -36450462
+      tappy_fish_ui_elements_164: 846392048
+      tappy_fish_ui_elements_151: -70054111
+      tappy_fish_ui_elements_81: 1224826145
+      tappy_fish_ui_elements_130: 139102212
+      tappy_fish_ui_elements_17: 707125933
+      tappy_fish_ui_elements_23: 1481919463
+      tappy_fish_ui_elements_5: -1799066423
+      tappy_fish_ui_elements_20: -1919505462
+      tappy_fish_ui_elements_148: -1244785974
+      tappy_fish_ui_elements_141: 112228430
+      tappy_fish_ui_elements_9: 672199632
+      tappy_fish_ui_elements_102: 94918838
+      tappy_fish_ui_elements_105: -849222423
+      tappy_fish_ui_elements_112: 524767229
+      tappy_fish_ui_elements_174: 200275301
+      tappy_fish_ui_elements_138: 1945964283
+      tappy_fish_ui_elements_96: 1265117746
+      tappy_fish_ui_elements_126: -1590972508
+      tappy_fish_ui_elements_150: -1217777889
+      tappy_fish_ui_elements_99: 1714168051
+      tappy_fish_ui_elements_180: 1311764333
+      tappy_fish_ui_elements_49: -2136748785
+      tappy_fish_ui_elements_64: -700457648
+      tappy_fish_ui_elements_100: -151949301
+      tappy_fish_ui_elements_16: -6403785
+      tappy_fish_ui_elements_132: -1907272387
+      tappy_fish_ui_elements_0: -1753918807
+      GoldMedal: 178435464
+      Obstacle: 837822770
+      tappy_fish_ui_elements_165: -102592206
+      tappy_fish_ui_elements_69: 882084495
+      tappy_fish_ui_elements_114: -1742027147
+      tappy_fish_ui_elements_125: 48031226
+      tappy_fish_ui_elements_45: -1882582124
+      tappy_fish_ui_elements_72: -1985873266
+      tappy_fish_ui_elements_84: 722873229
+      tappy_fish_ui_elements_56: 1996216450
+      tappy_fish_ui_elements_50: -1713904366
+      tappy_fish_ui_elements_11: 1138206796
+      tappy_fish_ui_elements_101: 1364766594
+      tappy_fish_ui_elements_140: 1820829791
+      tappy_fish_ui_elements_161: 2136101690
+      TapBox: -988817950
+      tappy_fish_ui_elements_117: -1279699081
+      tappy_fish_ui_elements_134: -864553677
+      tappy_fish_ui_elements_26: -488032915
+      tappy_fish_ui_elements_59: -563327102
+      tappy_fish_ui_elements_133: -1636655466
+      tappy_fish_ui_elements_94: -1320685364
+      tappy_fish_ui_elements_53: -1913748352
+      tappy_fish_ui_elements_184: -1007376371
+      tappy_fish_ui_elements_110: -1011478286
+      tappy_fish_ui_elements_116: 309516099
+      Fish_1: -713702054
+      Fish_2: 1239648148
+      SilverMedal: -1350568800
+      tappy_fish_ui_elements_42: -1252319656
+      tappy_fish_ui_elements_25: -869892904
+      tappy_fish_ui_elements_68: -2028091968
+      tappy_fish_ui_elements_91: 747047834
+      tappy_fish_ui_elements_61: -181027918
+      Restart: 2011935189
+      tappy_fish_ui_elements_107: 183511890
+      tappy_fish_ui_elements_176: 530576851
+      tappy_fish_ui_elements_155: 170347113
+      tappy_fish_ui_elements_113: 1009465151
+      tappy_fish_ui_elements_120: -1758425476
+      tappy_fish_ui_elements_1: -1807200490
+      tappy_fish_ui_elements_156: 2095526978
+      tappy_fish_ui_elements_158: -1740463124
+      tappy_fish_ui_elements_152: 1424035531
+      tappy_fish_ui_elements_35: -1323156807
+      tappy_fish_ui_elements_89: 962952567
+      GetReady: 1990540352
+      tappy_fish_ui_elements_77: -1979743381
+      tappy_fish_ui_elements_47: 458072815
+      tappy_fish_ui_elements_67: -83799480
+      tappy_fish_ui_elements_167: 2037035535
+      tappy_fish_ui_elements_10: 1884465516
+      tappy_fish_ui_elements_76: 218199980
+      tappy_fish_ui_elements_172: -1888820817
+      tappy_fish_ui_elements_163: 2012624946
+      tappy_fish_ui_elements_115: 1781782277
+      tappy_fish_ui_elements_71: -1485385119
+      tappy_fish_ui_elements_191: -114445827
+      tappy_fish_ui_elements_44: -489741434
+      tappy_fish_ui_elements_82: -872439369
+      tappy_fish_ui_elements_143: -14884022
+      tappy_fish_ui_elements_57: -1510929405
+      tappy_fish_ui_elements_63: -18992142
+      New: 1410422633
+      tappy_fish_ui_elements_181: 1619518318
+      tappy_fish_ui_elements_187: 1174341351
+      tappy_fish_ui_elements_97: -392630816
+      tappy_fish_ui_elements_108: 1002952466
+      tappy_fish_ui_elements_124: 1918039706
+      tappy_fish_ui_elements_127: 1375315197
+      tappy_fish_ui_elements_147: 793703694
+      tappy_fish_ui_elements_111: 2111807990
+      tappy_fish_ui_elements_78: 1988602782
+      tappy_fish_ui_elements_104: -101002522
+      tappy_fish_ui_elements_55: -265519075
+      tappy_fish_ui_elements_179: -415342844
+      Ground: 1248026760
+      tappy_fish_ui_elements_48: -1182041467
+      tappy_fish_ui_elements_62: 1527536961
+      tappy_fish_ui_elements_21: -1972161224
+      tappy_fish_ui_elements_19: -310565241
+      tappy_fish_ui_elements_86: 18343732
+      tappy_fish_ui_elements_137: 2080082305
+      tappy_fish_ui_elements_139: -31013125
+      tappy_fish_ui_elements_36: 722954210
+      tappy_fish_ui_elements_74: 690997759
+      tappy_fish_ui_elements_15: 1599085224
+      tappy_fish_ui_elements_142: -846160322
+      tappy_fish_ui_elements_13: -2086850932
+      BronzeMedal: 1696709800
+      tappy_fish_ui_elements_135: 93140959
+      tappy_fish_ui_elements_106: 47322635
+      tappy_fish_ui_elements_79: 94715431
+      MetalMedal: 1103469149
+      tappy_fish_ui_elements_34: -1633835213
+      tappy_fish_ui_elements_166: -1610191935
+      tappy_fish_ui_elements_24: -1626294075
+      tappy_fish_ui_elements_27: -1041990460
+      tappy_fish_ui_elements_92: -1503965017
+      tappy_fish_ui_elements_60: -495350399
+      tappy_fish_ui_elements_136: 336817649
+      tappy_fish_ui_elements_118: -520498892
+      ScoreBoard: -239147113
+      tappy_fish_ui_elements_183: 343680161
+      tappy_fish_ui_elements_70: -142202538
+      tappy_fish_ui_elements_122: -265476017
+      tappy_fish_ui_elements_129: -266102089
+      GameOver: 2064957255
+      tappy_fish_ui_elements_131: 1401729891
+      tappy_fish_ui_elements_7: -225106851
+      tappy_fish_ui_elements_28: 900365265
+      tappy_fish_ui_elements_51: -925229020
+      tappy_fish_ui_elements_162: 1014207449
+      tappy_fish_ui_elements_177: 1262453682
+      tappy_fish_ui_elements_128: -1215398839
+      tappy_fish_ui_elements_149: 1818524942
+      tappy_fish_ui_elements_38: -1351393233
+      tappy_fish_ui_elements_65: 838230104
+      tappy_fish_ui_elements_3: 1086019100
+      tappy_fish_ui_elements_12: 933111518
+      tappy_fish_ui_elements_109: -238514827
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
