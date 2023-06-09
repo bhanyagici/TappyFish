@@ -20,6 +20,7 @@ public class PlayerController : MonoBehaviour
     SpriteRenderer spriteRenderer;
     Animator animator;
     public ObstacleSpawner obstacleSpawner;
+    [SerializeField] private AudioSource swim,hit,point;
     
 
     // Start is called before the first frame update
@@ -50,6 +51,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0) && GameManager.gameOver == false)
         {
+            swim.Play();
             if (GameManager.gameStarted == false)
             {
                 _rigidbody.gravityScale = 3f;
@@ -103,13 +105,21 @@ public class PlayerController : MonoBehaviour
         {
             //Debug.Log("Scored");
             score.Scored();
+            point.Play();
         }
 
-        else if (collision.CompareTag("Column"))
+        else if (collision.CompareTag("Column") && GameManager.gameOver == false)
         {
-                // game over
-                gameManager.GameOver();
+            // game over
+            FishDieEffect();
+            gameManager.GameOver();
         }
+    }
+
+
+    void FishDieEffect()
+    {
+        hit.Play();
     }
 
 
@@ -120,6 +130,7 @@ public class PlayerController : MonoBehaviour
             if (GameManager.gameOver == false)
             {
                 //gameover
+                FishDieEffect();
                 gameManager.GameOver();
                 GameOver();
             }
